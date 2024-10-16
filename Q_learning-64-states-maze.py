@@ -2,7 +2,7 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 import math
-
+print ("JEfferson")
 
 def main(allitrates, epsilon,i, Q):
   print("\nSetting up maze in memory")
