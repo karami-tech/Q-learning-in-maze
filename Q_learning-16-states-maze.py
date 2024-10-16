@@ -1,6 +1,6 @@
 import numpy as np
 import random
-
+print("MAMad")
 def main():
     print("\nSetting up maze in memory")
     R=np.array([[-1,-1,-1,-1],
